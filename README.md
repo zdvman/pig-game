@@ -1,6 +1,3 @@
-Absolutely! Here’s a polished `README.md` file for your **Pig Game**, in the same style as the one for _Guess My Number_, with your GitHub and LinkedIn info included:
-
-```markdown
 # 🐷 Pig Game
 
 This is a simple 2-player **Pig Dice Game** built using **HTML**, **CSS**, and **JavaScript**.
@@ -47,6 +44,12 @@ The goal is to be the first player to reach **20 points**. On your turn, roll th
 
 ---
 
+## images
+
+![image_2025-03-22_23-22-25](https://github.com/user-attachments/assets/57574780-6b43-4d52-98be-950a898d3cac)
+
+---
+
 ## 🧠 What I Learned
 
 - Event-driven programming with JavaScript
@@ -65,7 +68,7 @@ This project is part of the **[JavaScript course by Jonas Schmedtmann](https://w
 
 ## 🙋‍♂️ About Me
 
-Hi! I’m [zdvman](https://github.com/zdvman), currently learning full-stack web development and building interactive games and apps along the way.
+Hi! I’m [zdvman](https://github.com/zdvman), currently learning full-stack web development.
 
 - 🔗 [GitHub](https://github.com/zdvman)
 - 💼 [LinkedIn](https://www.linkedin.com/in/zdvman/)
@@ -73,4 +76,3 @@ Hi! I’m [zdvman](https://github.com/zdvman), currently learning full-stack web
 ---
 
 Thanks for playing the Pig Game! 🐽🎲
-```
