@@ -19,6 +19,12 @@ The goal is to be the first player to reach **20 points**. On your turn, roll th
 
 ---
 
+## 📸 Preview
+
+[https://zdvman-pig-game.netlify.app/](https://zdvman-pig-game.netlify.app/)
+
+---
+
 ## 📂 Project Structure
 ```
 
@@ -60,19 +66,36 @@ The goal is to be the first player to reach **20 points**. On your turn, roll th
 
 ---
 
-## 📚 Acknowledgements
+## 🙋‍♂️ About the Developer
 
-This project is part of the **[JavaScript course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)**. A great hands-on way to learn the language through practical mini-games.
+I'm **Dmytro Zuiev**, a passionate self-taught frontend developer. I built this project as part of my journey to master JavaScript and create visually engaging and performant websites.
 
----
-
-## 🙋‍♂️ About Me
-
-Hi! I’m [zdvman](https://github.com/zdvman), currently learning full-stack web development.
-
-- 🔗 [GitHub](https://github.com/zdvman)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zdvman/)
+- GitHub: [@zdvman](https://github.com/zdvman)
+- LinkedIn: [zdvman](https://www.linkedin.com/in/zdvman)
 
 ---
 
-Thanks for playing the Pig Game! 🐽🎲
+## 🧠 Acknowledgements
+
+This project is heavily inspired by the teachings of [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) as part of his _Complete JavaScript Course_.
+It is recreated for **educational** and **portfolio** purposes only.
+
+---
+
+## ✅ Status
+
+✔️ Fully functional
+🧪 Tested in modern browsers
+📱 Not fully responsive – feel free to improve it!
+
+---
+
+## 📝 License
+
+This project is intended for personal learning and portfolio use only.
+Please do not redistribute as your own product or use it commercially.
+
+---
+
+Thanks for visiting!
+If you liked this project, consider giving it a ⭐️ on GitHub!
